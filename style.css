@@ -1,7 +1,11 @@
+body {
+  background-color: blue;
+}
 h1 {
-    fon
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  /* font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; */
+  color: white;
   font-weight: bold;
   font-size: 72px;
+  text-transform: capitalize;
+  text-align: center;
 }
