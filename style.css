@@ -1,11 +1,11 @@
 body {
-  background-color: green;
+  backgroun-color: green;
 }
 h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: orange;
   font-weight: bold;
   font-size: 48px;
-  text-transform: capitalize;
+  text-transform: capitaliz;
   text-align: center;
 }
